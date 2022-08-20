@@ -1,6 +1,6 @@
 ![Screenshot of born-in-the-purple theme](/images/screenshot.png)
 
-A simple theme for oh-my-zsh with a slight purple motif.
+A simple theme for oh-my-zsh with a slight purple motif. Inspired by [Pure](https://github.com/sindresorhus/pure).
 
 ## Install
 
@@ -21,6 +21,8 @@ ZSH_THEME="bitp"
 Screenshot captured on macOS, using iTerm 2 with an Atom One style theme:
 - [joshdick/onedark.vim/term](https://github.com/joshdick/onedark.vim/tree/main/term)
 
-I then use Atom One Dark styled themes for all of my applications that support it:
+Font is [Fira Code Nerd Font](https://github.com/Trzcin/Fira-Code-Nerd)
+
+I use Atom One Dark styled themes for all of my applications that support it:
 - Vim, [joshdick/onedark.vim](https://github.com/joshdick/onedark.vim)
 - Emacs, [doom-one](https://github.com/doomemacs/themes)
